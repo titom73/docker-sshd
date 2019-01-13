@@ -1,4 +1,8 @@
-## Make your OpenSSH fly on Alpine
+## Minimal Alpine LInux with Openssh server
+
+[![Build Status](https://travis-ci.org/titom73/docker-sshd.svg?branch=master)](https://travis-ci.org/titom73/docker-sshd)
+[![](https://images.microbadger.com/badges/image/inetsix/sshd.svg)](https://microbadger.com/images/inetsix/sshd "Get your own image badge on microbadger.com")
+![](https://img.shields.io/docker/pulls/inetsix/sshd.svg)
 
 ### Overview
 
